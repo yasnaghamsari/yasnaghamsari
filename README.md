@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Yasna 👋</h2>
+<h2 align="center">Hi, this is Yasna 👋</h2>
 <p align="center">B.Sc. in Computer Science · Alzahra University</p>
 
 <p align="center">
